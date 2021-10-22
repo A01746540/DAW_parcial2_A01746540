@@ -1,14 +1,14 @@
 const Sequelize = require('sequelize');
-const Consola = (sequelize) => {
+const Ciudad = (sequelize) => {
     sequelize.define('ciudades', {
-        id: {
+        /*id: {
             type: Sequelize.INTEGER,
-            allowNull: false,
-            primaryKey: true
-        },
+            allowNull: false
+        },*/
         ciudad: {
             type: Sequelize.STRING,
-            allowNull: false
+            allowNull: false,
+            primaryKey: true
         },
         pais: {
             type: Sequelize.STRING,

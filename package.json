@@ -1,25 +1,26 @@
 {
-  "name": "DAW_parcial2_A01746540",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/A01746540/DAW_parcial2_A01746540.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/A01746540/DAW_parcial2_A01746540/issues"
-  },
-  "homepage": "https://github.com/A01746540/DAW_parcial2_A01746540#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "mysql2": "^2.3.2",
-    "sequelize": "^6.7.0"
-  }
+    "name": "DAW_parcial2_A01746540",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/A01746540/DAW_parcial2_A01746540.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/A01746540/DAW_parcial2_A01746540/issues"
+    },
+    "homepage": "https://github.com/A01746540/DAW_parcial2_A01746540#readme",
+    "dependencies": {
+        "exports": "0.0.1",
+        "express": "^4.17.1",
+        "mysql2": "^2.3.2",
+        "sequelize": "^6.7.0"
+    }
 }
