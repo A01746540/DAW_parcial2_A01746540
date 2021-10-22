@@ -1,6 +1,6 @@
 const Sequelize = require('sequelize');
 const Ciudad = (sequelize) => {
-    sequelize.define('ciudades', {
+    sequelize.define('ciudades_A01746540', {
         /*id: {
             type: Sequelize.INTEGER,
             allowNull: false

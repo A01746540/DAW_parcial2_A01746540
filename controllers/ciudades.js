@@ -1,5 +1,5 @@
 const path = require('path')
-const Ciudad = require('../utils/database').models.ciudades
+const Ciudad = require('../utils/database').models.ciudades_A01746540
 
 exports.postAgregarCiudad = (req, res) => {
     console.log(req.body)
