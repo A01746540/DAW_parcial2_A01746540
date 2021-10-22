@@ -32,7 +32,7 @@ http://localhost:8084/ciudades/obtenerCiudadporPais
 }
 ```
 ### Para obtener la lista de ciudades TOTAL
-POST
+GET
 ```
 http://localhost:8084/ciudades/obtenerCiudad
 ```
@@ -52,7 +52,7 @@ http://localhost:8084/ciudades/borrarCiudad
 }
 ```
 ### Para actualizar una ciudad
-GET
+POST
 ```
 http://localhost:8084/ciudades/actualizarCiudad
 ```
