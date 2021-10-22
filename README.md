@@ -48,7 +48,7 @@ http://localhost:8084/ciudades/borrarCiudad
 ```
 ```
 {
-    "ciudad":"Brasil"
+    "ciudad":"Rio de Janeiro"
 }
 ```
 ### Para actualizar una ciudad
