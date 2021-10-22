@@ -10,7 +10,7 @@ Corre sobre el puerto 8084
 No permite duplicados y si lo intentas se incrementa el contador
 POST
 ```
-$http://localhost:8084/ciudades/agregarCiudad
+http://localhost:8084/ciudades/agregarCiudad
 ```
 ```
 {
@@ -23,7 +23,7 @@ $http://localhost:8084/ciudades/agregarCiudad
 ### Para obtener la lista de ciudades POR PAIS
 GET
 ```
-$http://localhost:8084/ciudades/obtenerCiudadporPais
+http://localhost:8084/ciudades/obtenerCiudadporPais
 ```
 ```
 {
@@ -33,7 +33,7 @@ $http://localhost:8084/ciudades/obtenerCiudadporPais
 ### Para obtener la lista de ciudades TOTAL
 POST
 ```
-$http://localhost:8084/ciudades/obtenerCiudad
+http://localhost:8084/ciudades/obtenerCiudad
 ```
 ```
 {
@@ -43,7 +43,7 @@ $http://localhost:8084/ciudades/obtenerCiudad
 ### Para borrar una ciudad
 POST
 ```
-$http://localhost:8084/ciudades/borrarCiudad
+http://localhost:8084/ciudades/borrarCiudad
 ```
 ```
 {
@@ -53,7 +53,7 @@ $http://localhost:8084/ciudades/borrarCiudad
 ### Para actualizar una ciudad
 GET
 ```
-$http://localhost:8084/ciudades/actualizarCiudad
+http://localhost:8084/ciudades/actualizarCiudad
 ```
 ```
 {
