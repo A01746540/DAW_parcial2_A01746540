@@ -15,7 +15,7 @@ http://localhost:8084/ciudades/agregarCiudad
 ```
 ```
 {
-    "ciudad":"Washigton DC",
+    "ciudad":"Washington DC",
     "pais":"EEUU",
     "descripcion":"Monumento Washington",
     "contador":1
@@ -38,7 +38,7 @@ http://localhost:8084/ciudades/obtenerCiudad
 ```
 ```
 {
-    "pais":"México"
+
 }
 ```
 ### Para borrar una ciudad
